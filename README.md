@@ -8,7 +8,7 @@ English Test by python
 파이썬
 
 ## 사용법
-VMWords.txt파일과 English Test new.py파일을 한 폴더에 다운받고
+VMords.txt파일과 English Test new.py파일을 한 폴더에 다운받고
 
 English Test new.py를 실행하면 됩니다.
 
